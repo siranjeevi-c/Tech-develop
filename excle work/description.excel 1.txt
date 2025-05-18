@@ -1,0 +1,23 @@
+column1   = Name
+column2   = level
+column3   = year
+column4   = sports
+column5   = no.of arrears
+column6   = no.of pass
+column7   = sub1 mark
+column8   = sub2 mark
+column9   = sub3 mark
+column10  = sub4 mark
+column11  = sub5 mark
+column12  = total
+column13  = percentage
+column14  = grade
+column15  = position
+
+        0 means best student 
+
+        1 means worst student
+ 
+  
+     grade-- =if(n3:90>"A",if(n4:80>"80")) 
+    
